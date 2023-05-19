@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "cmath": "cpp",
-        "*.tt": "cpp"
+        "*.tt": "cpp",
+        "maincpp": "cpp"
     }
 }
